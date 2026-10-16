@@ -1,0 +1,21 @@
+# Local datasets
+data/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
